@@ -2,4 +2,6 @@ streamlit
 numpy
 scipy
 scikit-learn
-google-generativeai (your own gemini API key)
+pandas
+google-generativeai
+pickle-mixin
